@@ -1,7 +1,9 @@
-Facebook PHP SDK (v.3.2.2)
+Facebook PHP SDK (v.3.2.2) w/ Sockets
 
-The [Facebook Platform](http://developers.facebook.com/) is
-a set of APIs that make your app more social.
+This is an implementation of the regular Facebook PHP SDK (v.3.2.2),
+including a socket connection to facebook api. This is based on
+[mattmechan](https://github.com/mattmecham/php-sdk) sdk that worked on v3.0.0
+, but updated to the v.3.2.2.
 
 This repository contains the open source PHP SDK that allows you to
 access Facebook Platform from your PHP app. Except as otherwise noted,
